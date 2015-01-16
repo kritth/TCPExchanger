@@ -1,0 +1,150 @@
+[Date:2557-03-26]	[Time:09.32.46]	Application started.
+
+[Date:2557-03-26]	[Time:09.32.55]	[Status:Offline]	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.33.02]	[Status:Offline]	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.33.22]	[Status:No_Response]	[203.144.132.78:80]	Playpark website
+
+[Date:2557-03-26]	[Time:09.33.27]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:09.33.33]	[Status:Online] 	[103.4.157.135:8000]	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:09.49.22]	Application started.
+
+[Date:2557-03-26]	[Time:09.49.31]	[Status:Offline]	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.49.37]	[Status:Offline]	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.49.57]	[Status:No_Response]	[203.144.132.78:80]	Playpark website
+
+[Date:2557-03-26]	[Time:09.50.03]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:09.50.07]	[Status:Online] 	[103.4.157.135:8000]	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:09.50.27]	[Status:No_Response]	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:09.51.13]	Application started.
+
+[Date:2557-03-26]	[Time:09.51.20]	[Status:Offline]	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.51.26]	[Status:Offline]	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.51.47]	[Status:No_Response]	[203.144.132.78:80]	Playpark website
+
+[Date:2557-03-26]	[Time:09.51.51]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:09.51.57]	[Status:Online] 	[103.4.157.135:8000]	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:09.52.47]	Application started.
+
+[Date:2557-03-26]	[Time:09.52.54]	[Status:Offline]	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.53.01]	[Status:Offline]	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.54.02]	Application started.
+
+[Date:2557-03-26]	[Time:09.54.09]	[Status:Offline] 	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.54.16]	[Status:Offline] 	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.54.37]	[Status:No_Response]	[203.144.132.78:80]	Playpark website
+
+[Date:2557-03-26]	[Time:09.54.41]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:09.54.47]	[Status:Online] 	[103.4.157.135:8000]	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:09.55.05]	Application started.
+
+[Date:2557-03-26]	[Time:09.55.12]	[Status:Offline]		[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.55.19]	[Status:Offline]		[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.55.46]	Application started.
+
+[Date:2557-03-26]	[Time:09.55.54]	[Status:Offline] 	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:09.56.01]	[Status:Offline] 	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:09.56.22]	[Status:No_Response]	[203.144.132.78:80]	Playpark website
+
+[Date:2557-03-26]	[Time:09.56.26]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:09.56.32]	[Status:Online] 	[103.4.157.135:8000]	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:09.56.53]	[Status:No_Response]	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:10.07.28]	Application started.
+
+[Date:2557-03-26]	[Time:10.07.35]	[Status:Offline] 	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:10.07.42]	[Status:Offline] 	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:10.08.03]	[Status:No_Response]	[203.144.132.78:80]  Playpark website
+
+[Date:2557-03-26]	[Time:10.08.07]	[Status:Online] 	[125.209.222.88:10010]]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.08.13]	[Status:Online] 	[103.4.157.135:8000] Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.08.56]	Application started.
+
+[Date:2557-03-26]	[Time:10.09.04]	[Status:Offline] 	[127.0.0.1:10]		test port 10
+
+[Date:2557-03-26]	[Time:10.09.10]	[Status:Offline] 	[127.0.0.1:13]		Test port 13
+
+[Date:2557-03-26]	[Time:10.09.31]	[Status:No_Response]	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.09.36]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.09.41]	[Status:Online] 	[103.4.157.135:8000] 	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.10.02]	[Status:No_Response]	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:10.10.23]	[Status:Online] 	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.10.28]	[Status:Offline] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.10.33]	[Status:Offline] 	[103.4.157.135:8000] 	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.10.39]	[Status:Offline] 	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:10.11.00]	[Status:Offline] 	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.11.12]	[Status:Online] 	[103.4.157.135:8000] 	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.11.32]	[Status:No_Response]	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:10.12.05]	[Status:No_Response]	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.12.10]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.12.45]	Application started.
+
+[Date:2557-03-26]	[Time:10.12.53]	[Status:Offline] 	[127.0.0.1:10]       	test port 10
+
+[Date:2557-03-26]	[Time:10.12.59]	[Status:Offline] 	[127.0.0.1:13]       	Test port 13
+
+[Date:2557-03-26]	[Time:10.13.20]	[Status:No_Response]	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.13.24]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.13.30]	[Status:Online] 	[103.4.157.135:8000] 	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.13.51]	[Status:No_Response]	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:10.14.09]	[Status:Offline] 	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.14.15]	[Status:Offline] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.14.21]	[Status:Offline] 	[103.4.157.135:8000] 	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.14.27]	[Status:Offline] 	[12.130.244.193:1119]	Diablo 3 server
+
+[Date:2557-03-26]	[Time:10.15.02]	[Status:No_Response]	[203.144.132.78:80]  	Playpark website
+
+[Date:2557-03-26]	[Time:10.15.06]	[Status:Online] 	[125.209.222.88:10010]	Line cookie run server
+
+[Date:2557-03-26]	[Time:10.15.11]	[Status:Online] 	[103.4.157.135:8000] 	Ragnarok Mobile Server
+
+[Date:2557-03-26]	[Time:10.15.32]	[Status:No_Response]	[12.130.244.193:1119]	Diablo 3 server
+

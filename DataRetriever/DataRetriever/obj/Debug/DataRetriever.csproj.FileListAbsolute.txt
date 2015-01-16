@@ -1,0 +1,15 @@
+c:\users\sneadmin\documents\visual studio 2012\Projects\DataRetriever\DataRetriever\bin\Debug\DataRetriever.exe.config
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\bin\Debug\DataRetriever.exe
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\bin\Debug\DataRetriever.pdb
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\bin\Debug\ObjectListView.dll
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\bin\Debug\ObjectListView.pdb
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\bin\Debug\ObjectListView.xml
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.Properties.Resources.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.csproj.GenerateResource.Cache
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.exe
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.pdb
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.csprojResolveAssemblyReference.cache
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.Option.resources
+C:\Users\sneadmin\documents\visual studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.FocusApp.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.About.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\DataRetriever\DataRetriever\obj\Debug\DataRetriever.DataRetriever.resources

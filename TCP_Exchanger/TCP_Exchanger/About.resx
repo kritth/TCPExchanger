@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Warning: This application is intended for personnel use only. This application allows the user to moniter the connection that the user add into the list. The program will then check if the connection between this computer and the target ip can be established. This application can be used to distribute the connection information through TCP connection to computer with Data Retriever portion of the application.</value>
+  </data>
+</root>

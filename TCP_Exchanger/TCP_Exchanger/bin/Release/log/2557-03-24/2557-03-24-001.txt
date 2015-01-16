@@ -1,0 +1,12 @@
+[24.03.2557 16:19:35] 	Application started.
+
+[24.03.2557 16:20:41] 	Application started.
+
+[24.03.2557 16:22:45] 	Application started.
+
+[24.03.2557 16:23:46] 	Application started.
+
+[24.03.2557 16:24:10] 	Application started.
+
+[24.03.2557 16:24:21] 	Application started.
+

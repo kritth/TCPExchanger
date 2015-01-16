@@ -1,0 +1,26 @@
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\ObjectListView.dll
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\TelnetLib.dll
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\ObjectListView.pdb
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\ObjectListView.xml
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\TelnetLib.xml
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.csprojResolveAssemblyReference.cache
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.AddExisting.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.AddNew.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.AdvancedSearch.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.Controller.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.Edit.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.IPGetter.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.Logger.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.PortScanner.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.Properties.Resources.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.Server.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.csproj.GenerateResource.Cache
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.About.resources
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\Connection Checker.exe.config
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\Connection Checker.exe
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\bin\Debug\Connection Checker.pdb
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\Connection Checker.exe
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\Connection Checker.pdb
+C:\Users\sneadmin\Documents\Visual Studio 2012\Projects\TCP_Exchanger\TCP_Exchanger\obj\Debug\TCP_Exchanger.Confirm_Remove.resources
